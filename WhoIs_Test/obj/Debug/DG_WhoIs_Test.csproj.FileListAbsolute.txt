@@ -1,0 +1,16 @@
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Test\bin\Debug\DG_WhoIs_Test.dll
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Test\bin\Debug\DG_WhoIs_Test.pdb
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Test\bin\Debug\DG_WhoIs_Project.exe
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Test\bin\Debug\DG_WhoIs_Project.pdb
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Test\bin\Debug\DG_WhoIs_Project.exe.config
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Test\obj\Debug\DG_WhoIs_Test.csprojResolveAssemblyReference.cache
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Test\obj\Debug\DG_WhoIs_Test.csproj.CoreCompileInputs.cache
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Test\obj\Debug\DG_WhoIs_Test.dll
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Test\obj\Debug\DG_WhoIs_Test.pdb

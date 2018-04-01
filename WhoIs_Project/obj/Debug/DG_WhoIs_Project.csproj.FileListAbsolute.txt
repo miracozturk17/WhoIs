@@ -1,0 +1,7 @@
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Project\bin\Debug\DG_WhoIs_Project.exe.config
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Project\bin\Debug\DG_WhoIs_Project.exe
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Project\bin\Debug\DG_WhoIs_Project.pdb
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Project\obj\Debug\DG_WhoIs_Project.csproj.CoreCompileInputs.cache
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Project\obj\Debug\DG_WhoIs_Project.exe
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Project\obj\Debug\DG_WhoIs_Project.pdb
+C:\Users\mozturk\Desktop\DG_WhoIs Project\DG_WhoIs_Project\obj\Debug\DG_WhoIs_Project.csprojResolveAssemblyReference.cache
